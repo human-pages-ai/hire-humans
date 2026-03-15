@@ -26,7 +26,7 @@ Before searching for a human, ask the user to provide:
 - **Category** (e.g., Productivity, Developer Tools, AI, SaaS)
 - **Logo URL** (direct link to a square logo image)
 - **Screenshot URLs** (1-3 screenshots of the product)
-- **Founder/maker name** and **email** (many directories require this)
+- **Founder/maker name** and **email** (many directories require this — consider using a dedicated email like directories@yourdomain.com to keep signup confirmations separate and limit credential exposure)
 - **Social links** (Twitter/X handle at minimum)
 - **Pricing info** (free, freemium, paid — with prices if applicable)
 
@@ -106,7 +106,7 @@ Deliver a spreadsheet or markdown table with columns:
 Mark each as: submitted, pending approval, requires paid plan, or failed (with reason).
 ```
 
-**Suggested price:** $5-15 for the full list. Workers in global markets handle this efficiently. One job covers the entire sweep — no need to split into batches.
+**Suggested price:** $5 per batch of 10-15 directories. Workers in global markets handle this efficiently. A full 80+ directory sweep typically takes 5-8 batches at $5-10 each.
 
 ## Expected Deliverables
 
@@ -122,14 +122,14 @@ A completed batch should look like this:
 
 | # | Directory | URL Submitted | Status | Notes |
 |---|-----------|--------------|--------|-------|
-| 1 | ProductHunt | https://producthunt.com/posts/focustimer | Submitted | Scheduled for launch 20 Mar |
-| 2 | BetaList | https://betalist.com/startups/focustimer | Pending approval | Review takes 3-5 days |
-| 3 | Uneed | https://uneed.best/tool/focustimer | Live | Approved instantly |
-| 4 | SaaSHub | https://saashub.com/focustimer | Live | Listed under Productivity |
-| 5 | AlternativeTo | https://alternativeto.net/software/focustimer | Live | Listed as alternative to Forest, Be Focused |
-| 6 | BetaList | — | Requires paid plan | $39 for featured listing, skipped |
-| 7 | MicroLaunch | — | Failed | Site at capacity, retry next month |
-| 8 | Fazier | https://fazier.com/launches/focustimer | Pending approval | Submitted, awaiting review |
+| 1 | BetaList | https://betalist.com/startups/focustimer | Pending approval | Review takes 3-5 days |
+| 2 | Uneed | https://uneed.best/tool/focustimer | Live | Approved instantly |
+| 3 | SaaSHub | https://saashub.com/focustimer | Live | Listed under Productivity |
+| 4 | AlternativeTo | https://alternativeto.net/software/focustimer | Live | Listed as alternative to Forest, Be Focused |
+| 5 | Capterra | — | Requires paid plan | Free basic listing available, premium is paid |
+| 6 | MicroLaunch | — | Failed | Site at capacity, retry next month |
+| 7 | Fazier | https://fazier.com/launches/focustimer | Pending approval | Submitted, awaiting review |
+| 8 | Crunchbase | https://crunchbase.com/organization/focustimer | Live | Free profile created |
 
 ## Verification Criteria
 
@@ -165,7 +165,7 @@ clarify anything.
 
 ## Estimated Timeline
 
-- **Per batch of 5 directories:** 1-3 hours
+- **Per batch of 10-15 directories:** 2-4 hours
 - **Full 80+ directory sweep:** 2-4 days (recommend splitting across 2-3 jobs)
 - **Turnaround expectation:** Set deadline to 48 hours per batch
 
@@ -179,7 +179,20 @@ Most of the SEO value comes from the first submission sweep. Repeat jobs are rar
 
 ## Directory List
 
-The following directories are organized by category. Assign batches from this list when creating jobs. Not every directory will be relevant to every product — skip those that clearly do not fit and note them as "not applicable" in the deliverable.
+The following directories are organized by category. Assign batches from this list when creating jobs.
+
+**Before sending the list to a worker, the agent should filter out irrelevant categories.** For example: skip "AI Agent Directories" if the product isn't AI-related. Skip "Profile / Backlink Sites" if the user only wants direct listing visibility. This saves the worker time and keeps the job focused. Workers should also skip individual directories that clearly don't fit and note them as "not applicable" in the deliverable.
+
+> **Last verified:** March 2026. Workers should mark any dead, paywalled, or changed sites in their deliverable so we can keep this list current. If you find a directory is permanently down, note it clearly — this helps maintain the registry for future jobs.
+
+### Founder-Handled (Do Not Delegate)
+
+These platforms require careful timing, community engagement, or have strict self-promotion rules. Handle these yourself — do NOT include them in batch jobs for hired workers.
+
+| # | Directory | URL | Notes |
+|---|-----------|-----|-------|
+| 1 | Product Hunt | https://www.producthunt.com | One shot — schedule launch day carefully, build hunter relationships, engage community on launch day |
+| 2 | Hacker News (Show HN) | https://news.ycombinator.com | Strict self-promotion rules; post as "Show HN: [product]" on weekday mornings ET; founder should engage in comments |
 
 ### Launch Platforms
 
@@ -187,13 +200,11 @@ Sites designed for launching and announcing new products. These often have upvot
 
 | # | Directory | URL | Notes |
 |---|-----------|-----|-------|
-| 1 | Product Hunt | https://www.producthunt.com | Schedule launch day carefully; one shot |
-| 2 | BetaList | https://betalist.com | Best for pre-launch/beta products |
-| 3 | Uneed | https://www.uneed.best | Indie-friendly, fast approval |
-| 4 | Fazier | https://fazier.com | Startup launch platform |
-| 5 | MicroLaunch | https://microlaunch.net | For micro-SaaS and side projects |
-| 6 | TinyLaunch | https://tinylaunch.com | Small product launches |
-| 7 | Hacker News (Show HN) | https://news.ycombinator.com | Post as "Show HN: [product]"; best on weekday mornings ET |
+| 3 | BetaList | https://betalist.com | Best for pre-launch/beta products |
+| 4 | Uneed | https://www.uneed.best | Indie-friendly, fast approval |
+| 5 | Fazier | https://fazier.com | Startup launch platform |
+| 6 | MicroLaunch | https://microlaunch.net | For micro-SaaS and side projects |
+| 7 | TinyLaunch | https://tinylaunch.com | Small product launches |
 | 8 | SideProjectors | https://www.sideprojectors.com | Side project marketplace/directory |
 | 9 | LaunchIgniter | https://launchigniter.com | Launch announcement platform |
 | 10 | PeerPush | https://peerpush.co | Peer-driven product launches |
@@ -245,13 +256,13 @@ Sites where you create a company or project profile. Valuable primarily for back
 
 | # | Directory | URL | Notes |
 |---|-----------|-----|-------|
-| 46 | Crunchbase | https://www.crunchbase.com | Create a free organization profile |
-| 47 | About.me | https://about.me | Personal/company profile page |
-| 48 | HackerNoon | https://hackernoon.com | Publish a story or create a company profile |
-| 49 | Devpost | https://devpost.com | Good for hackathon-born projects |
-| 50 | SourceForge | https://sourceforge.net | Open-source project hosting and discovery |
-| 51 | Strikingly | https://www.strikingly.com | Create a simple landing page with backlink |
-| 52 | Site123 | https://www.site123.com | Free site builder with directory listing |
+| 45 | Crunchbase | https://www.crunchbase.com | Create a free organization profile |
+| 46 | About.me | https://about.me | Personal/company profile page |
+| 47 | HackerNoon | https://hackernoon.com | Publish a story or create a company profile |
+| 48 | Devpost | https://devpost.com | Good for hackathon-born projects |
+| 49 | SourceForge | https://sourceforge.net | Open-source project hosting and discovery |
+| 50 | Strikingly | https://www.strikingly.com | Create a simple landing page with backlink |
+| 51 | Site123 | https://www.site123.com | Free site builder with directory listing |
 
 ### AI Agent Directories
 
@@ -259,11 +270,11 @@ Specialized directories for AI agents, autonomous tools, and x402/crypto-native 
 
 | # | Directory | URL | Notes |
 |---|-----------|-----|-------|
-| 53 | navtools.ai | https://navtools.ai | AI tool navigation directory |
-| 54 | x402.eco | https://x402.eco | x402 protocol ecosystem directory |
-| 55 | hermesx402.com | https://hermesx402.com | Hermes x402 agent directory |
-| 56 | nullpath.com | https://nullpath.com | AI agent listings |
-| 57 | aiagentstore.ai | https://aiagentstore.ai | AI agent marketplace |
+| 52 | navtools.ai | https://navtools.ai | AI tool navigation directory |
+| 53 | x402.eco | https://x402.eco | x402 protocol ecosystem directory |
+| 54 | hermesx402.com | https://hermesx402.com | Hermes x402 agent directory |
+| 55 | nullpath.com | https://nullpath.com | AI agent listings |
+| 56 | aiagentstore.ai | https://aiagentstore.ai | AI agent marketplace |
 
 ### Additional High-Value Directories
 
@@ -271,34 +282,34 @@ Supplementary directories worth submitting to for broader coverage.
 
 | # | Directory | URL | Notes |
 |---|-----------|-----|-------|
-| 58 | Indie Hackers | https://www.indiehackers.com | Community + product listing |
-| 59 | BetaPage | https://betapage.co | Beta product directory |
-| 60 | GetApp | https://www.getapp.com | Gartner-owned software directory |
-| 61 | Software Suggest | https://www.softwaresuggest.com | Software recommendation engine |
-| 62 | Slant | https://www.slant.co | "What is the best..." comparison site |
-| 63 | Product Hunt Ship | https://www.producthunt.com/ship | Pre-launch landing page on PH |
-| 64 | F6S | https://www.f6s.com | Startup deals, accelerators, and profiles |
-| 65 | AngelList / Wellfound | https://wellfound.com | Startup profiles and hiring |
-| 66 | Clutch | https://clutch.co | B2B service directory |
-| 67 | TrustPilot | https://www.trustpilot.com | Create a business profile for reviews |
-| 68 | AppSumo Marketplace | https://appsumo.com | Lifetime deal marketplace (if applicable) |
-| 69 | Pitchbook | https://pitchbook.com | Financial data; create a free profile |
-| 70 | TechCrunch Submit | https://techcrunch.com/submit | Submit for coverage consideration |
-| 71 | Robin Good Tools | https://tools.robingood.com | Curated tool directory |
-| 72 | NocodeList | https://nocodelist.co | No-code tool directory (if applicable) |
-| 73 | MakerPad | https://www.makerpad.co | No-code community and tools |
-| 74 | Remote Tools | https://www.remotetools.club | Remote work tool directory |
-| 75 | Futurepedia | https://www.futurepedia.io | AI tool directory |
-| 76 | AI Valley | https://aivalley.ai | AI tool discovery |
-| 77 | TopAI.tools | https://topai.tools | Ranked AI tools |
-| 78 | AI Tools Directory | https://aitoolsdirectory.com | General AI tools listing |
-| 79 | SaaSWorthy | https://www.saasworthy.com | SaaS reviews and awards |
-| 80 | Crozdesk | https://crozdesk.com | Software discovery platform |
-| 81 | GoodFirms | https://www.goodfirms.co | Software reviews and listings |
-| 82 | Gartner Peer Insights | https://www.gartner.com/reviews | Enterprise reviews (for established products) |
-| 83 | All Top Startups | https://alltopstartups.com | Startup news and directory |
-| 84 | EU Startups | https://www.eu-startups.com | European startup directory |
-| 85 | BetaBound | https://www.betabound.com | Beta testing community and listings |
+| 57 | Indie Hackers | https://www.indiehackers.com | Community + product listing |
+| 58 | BetaPage | https://betapage.co | Beta product directory |
+| 59 | GetApp | https://www.getapp.com | Gartner-owned software directory |
+| 60 | Software Suggest | https://www.softwaresuggest.com | Software recommendation engine |
+| 61 | Slant | https://www.slant.co | "What is the best..." comparison site |
+| 62 | Product Hunt Ship | https://www.producthunt.com/ship | Pre-launch landing page on PH |
+| 63 | F6S | https://www.f6s.com | Startup deals, accelerators, and profiles |
+| 64 | AngelList / Wellfound | https://wellfound.com | Startup profiles and hiring |
+| 65 | Clutch | https://clutch.co | B2B service directory |
+| 66 | TrustPilot | https://www.trustpilot.com | Create a business profile for reviews |
+| 67 | AppSumo Marketplace | https://appsumo.com | Lifetime deal marketplace (if applicable) |
+| 68 | Pitchbook | https://pitchbook.com | Financial data; create a free profile |
+| 69 | TechCrunch Submit | https://techcrunch.com/submit | Submit for coverage consideration |
+| 70 | Robin Good Tools | https://tools.robingood.com | Curated tool directory |
+| 71 | NocodeList | https://nocodelist.co | No-code tool directory (if applicable) |
+| 72 | MakerPad | https://www.makerpad.co | No-code community and tools |
+| 73 | Remote Tools | https://www.remotetools.club | Remote work tool directory |
+| 74 | Futurepedia | https://www.futurepedia.io | AI tool directory |
+| 75 | AI Valley | https://aivalley.ai | AI tool discovery |
+| 76 | TopAI.tools | https://topai.tools | Ranked AI tools |
+| 77 | AI Tools Directory | https://aitoolsdirectory.com | General AI tools listing |
+| 78 | SaaSWorthy | https://www.saasworthy.com | SaaS reviews and awards |
+| 79 | Crozdesk | https://crozdesk.com | Software discovery platform |
+| 80 | GoodFirms | https://www.goodfirms.co | Software reviews and listings |
+| 81 | Gartner Peer Insights | https://www.gartner.com/reviews | Enterprise reviews (for established products) |
+| 82 | All Top Startups | https://alltopstartups.com | Startup news and directory |
+| 83 | EU Startups | https://www.eu-startups.com | European startup directory |
+| 84 | BetaBound | https://www.betabound.com | Beta testing community and listings |
 
 ---
 
