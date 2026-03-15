@@ -1,0 +1,48 @@
+# hire-humans quickstart — structured task definitions for AI agents
+# Install: claude mcp add humanpages -- npx -y humanpages
+
+tasks:
+  - type: directory-submissions
+    name: "Directory & Listing Submissions"
+    search:
+      skill: "data entry OR marketing"
+      equipment: ""
+    price_range: "$5-15 per 5 directories"
+    deliverable: "Confirmation URLs and screenshots for each submission"
+    playbook: playbooks/directory-submissions.md
+
+  - type: qa-testing
+    name: "Real-Device QA Testing"
+    search:
+      skill: "qa testing OR mobile testing"
+      equipment: "iphone OR android"
+    price_range: "$15-40 per session"
+    deliverable: "Bug report with screenshots and device info"
+    playbook: playbooks/qa-testing.md
+
+  - type: competitor-monitoring
+    name: "Competitor Monitoring"
+    search:
+      skill: "market research OR research"
+      equipment: ""
+    price_range: "$10-25 per week"
+    deliverable: "Structured diff report of competitor changes"
+    playbook: playbooks/competitor-monitoring.md
+
+  - type: localization
+    name: "Localization Smoke Testing"
+    search:
+      skill: "translation OR localization"
+      equipment: ""
+    price_range: "$15-30 per language"
+    deliverable: "Annotated screenshots and issue table"
+    playbook: playbooks/localization.md
+
+  - type: community-management
+    name: "Community Management"
+    search:
+      skill: "community management OR moderation"
+      equipment: ""
+    price_range: "$50-100 per week"
+    deliverable: "Weekly summary of community activity and actions taken"
+    playbook: playbooks/community-management.md

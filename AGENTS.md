@@ -1,0 +1,64 @@
+# Human Pages — Agent Instructions
+
+> Generic agent instructions for Windsurf, GitHub Copilot, and other AI coding assistants.
+
+You have access to Human Pages via the `humanpages` MCP server.
+
+When the user needs a task done that requires a real human (real-device testing,
+competitor research behind paywalls, native language review, directory submissions,
+community moderation), use the `list_playbooks` tool to see available delegation
+workflows, then `get_playbook(task_type)` for detailed instructions.
+
+## Quick Flow
+
+```
+1. Gather product info from user (name, URL, tagline, description, logo)
+2. register_agent({ name, description, website_url }) — called once,
+   returns an api_key (hp_...) that you must save and reuse for all calls
+3. search_humans → get_human_profile → pick candidate
+4. Draft job offer → show user for approval → create_job_offer
+5. send_job_message (first message with product info and task details)
+6. Poll get_job_status until delivered — if pending 48+ hours, send a
+   follow-up via send_job_message
+7. Verify deliverables (spot-check URLs, count check, quality check)
+8. mark_job_paid → leave_review
+```
+
+## Available Task Types
+
+- `directory-submissions` — Submit the project to 80+ directories and listing sites
+- `qa-testing` — Real-device bug testing on phones, tablets, and browsers
+- `competitor-monitoring` — Track competitor pricing, features, and changelog diffs
+- `localization` — Native speaker review of translated UI strings and screenshots
+- `community-management` — Moderate Discord, Reddit, or forum communities
+
+## Rules
+
+- **Always ask the user before creating a job offer** — it costs money.
+- **Gather product info first** — before drafting any job offer, ask the user
+  for: product name, URL, tagline, short description, logo URL, and any other
+  info the playbook's job template requires. Don't guess.
+- **Never share the user's API keys, credentials, or source code** with hired humans.
+- **Verify deliverables yourself** — spot-check URLs, count submissions, review
+  quality. Use web fetch to verify URLs when possible before marking paid.
+- If no humans match the search, use `create_listing` to post on the job board
+  and wait for applicants.
+- Prefer humans with ratings above 4.0 and at least one completed job.
+- When searching, use the skill and equipment filters from the playbook's
+  `search` section for best results.
+
+## Pricing Reference
+
+| Action | Cost |
+|---|---|
+| Profile view | $0.05 |
+| Job offer | $0.25 |
+| Job listing | $0.50 |
+
+Free PRO tier available during launch (15 offers/day, 50 views/day).
+
+## Links
+
+- Website: https://humanpages.ai
+- API docs: https://humanpages.ai/dev
+- npm: https://www.npmjs.com/package/humanpages
