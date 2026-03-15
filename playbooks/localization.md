@@ -100,7 +100,7 @@ Also provide:
 - Top 3 systemic issues (patterns you noticed across multiple strings)
 ```
 
-**Suggested price:** $15-30 per language, depending on product size. A small app (10-20 screens): $15. A larger product (50+ screens): $25-30.
+**Suggested price:** $5-15 per language. A small app (10-20 screens): $5. A larger product (50+ screens): $10-15.
 
 ## Expected Deliverables
 

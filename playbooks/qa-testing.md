@@ -90,7 +90,7 @@ Also note:
 Deliver as a markdown document or structured table.
 ```
 
-**Suggested price:** $15-40 per testing session, depending on scope. A focused session (5-10 test cases, single platform) is $15. A comprehensive session (15+ cases, multiple devices) is $30-40.
+**Suggested price:** $3-10 per testing session. A focused session (5-10 test cases, single platform) is $3-5. A comprehensive session (15+ cases, multiple devices) is $8-10.
 
 ## Expected Deliverables
 

@@ -57,9 +57,9 @@ Add to your `~/.windsurf/mcp.json`:
 | Playbook | What | Est. price | Cadence |
 |---|---|---|---|
 | **[Directory Submissions](playbooks/directory-submissions.md) ★ START HERE** | Submit your project to 80+ directories | ~$5--15 | One-time |
-| [QA Testing](playbooks/qa-testing.md) | Real-device bug testing on phones, tablets, browsers | ~$15--40/session | Per release |
-| [Competitor Monitoring](playbooks/competitor-monitoring.md) | Track competitor pricing, features, and changes | ~$10--25/week | Weekly |
-| [Localization](playbooks/localization.md) | Native speaker review of your translated UI | ~$15--30/language | Per release |
+| [QA Testing](playbooks/qa-testing.md) | Real-device bug testing on phones, tablets, browsers | ~$3--10/session | Per release |
+| [Competitor Monitoring](playbooks/competitor-monitoring.md) | Track competitor pricing, features, and changes | ~$3--8/week | Weekly |
+| [Localization](playbooks/localization.md) | Native speaker review of your translated UI | ~$5--15/language | Per release |
 | [Community Management](playbooks/community-management.md) | Moderate your Discord, Reddit, or forum | ~$50--100/week | Daily |
 
 Prices are estimates — actual cost depends on the human you hire and your market. Your first directory submission job is on us if it doesn't work out.
@@ -89,7 +89,7 @@ Your agent handles steps 1--3 and 5--8 autonomously. It pauses at step 4 to ask 
 
 You pay humans directly using their preferred method (PayPal, Venmo, USDC, bank transfer, etc.). Human Pages tracks the job lifecycle -- you only call `mark_job_paid` after your agent verifies the deliverables. If the work isn't right, you don't pay. See [API docs](https://humanpages.ai/dev) for the full payment flow.
 
-**Platform access:**
+**Platform access (currently free):**
 
 | Tier | Cost | Includes |
 |---|---|---|

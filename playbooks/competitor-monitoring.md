@@ -100,7 +100,7 @@ End with a "Key Takeaways" section: 3-5 bullet points on what
 matters most for [YOUR_PRODUCT] strategy.
 ```
 
-**Suggested price:** $10-25 per weekly report, depending on the number of competitors and depth of analysis. 2-3 competitors at surface level: $10. 4-5 competitors with deep analysis: $20-25.
+**Suggested price:** $3-8 per weekly report. 2-3 competitors at surface level: $3-5. 4-5 competitors with deeper analysis: $6-8.
 
 ## Expected Deliverables
 
