@@ -106,10 +106,7 @@ Deliver a spreadsheet or markdown table with columns:
 Mark each as: submitted, pending approval, requires paid plan, or failed (with reason).
 ```
 
-**Suggested price:**
-- **Default: one job for 15-20 directories at $5-15.** Workers in global markets handle this efficiently.
-- For a full 80+ directory sweep, create 4-5 sequential jobs of 15-20 directories each. Start with the Launch Platforms category, then move down the list.
-- Do not create a single job for all 80+ directories — it's too much to verify at once.
+**Suggested price:** $5-15 for the full list. Workers in global markets handle this efficiently. One job covers the entire sweep — no need to split into batches.
 
 ## Expected Deliverables
 
@@ -174,13 +171,9 @@ clarify anything.
 
 ## Recurring Schedule
 
-**Cadence:** Monthly
+**Cadence:** One-time for most products. Revisit every 6-12 months if new directories emerge or your product has changed significantly.
 
-**Monthly maintenance task:**
-- Re-check 10 previously submitted directories for listing status (some remove inactive listings)
-- Submit to any new directories discovered that month
-- Update descriptions if the product tagline or pricing has changed
-- Report any directories that have gone offline
+Most of the SEO value comes from the first submission sweep. Repeat jobs are rare and low priority.
 
 ---
 

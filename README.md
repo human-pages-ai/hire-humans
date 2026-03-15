@@ -56,7 +56,7 @@ Add to your `~/.windsurf/mcp.json`:
 
 | Playbook | What | Est. price | Cadence |
 |---|---|---|---|
-| **[Directory Submissions](playbooks/directory-submissions.md) ★ START HERE** | Submit your project to 80+ directories | ~$5--15/batch | Monthly |
+| **[Directory Submissions](playbooks/directory-submissions.md) ★ START HERE** | Submit your project to 80+ directories | ~$5--15 | One-time |
 | [QA Testing](playbooks/qa-testing.md) | Real-device bug testing on phones, tablets, browsers | ~$15--40/session | Per release |
 | [Competitor Monitoring](playbooks/competitor-monitoring.md) | Track competitor pricing, features, and changes | ~$10--25/week | Weekly |
 | [Localization](playbooks/localization.md) | Native speaker review of your translated UI | ~$15--30/language | Per release |
