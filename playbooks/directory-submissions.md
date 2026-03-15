@@ -2,6 +2,8 @@
 
 Hire a human to submit your product to startup directories, SaaS listings, and backlink sites. This is the highest-leverage task for early-stage growth: broad directory presence drives SEO, referral traffic, and credibility.
 
+**Automate this with an AI agent:** Install the [Human Pages MCP server](https://humanpages.ai/dev) and your agent can follow this playbook end-to-end — find a worker, send the job, verify deliverables, and pay. [API docs](https://humanpages.ai/dev)
+
 ---
 
 ## When to Use
@@ -331,5 +333,9 @@ Supplementary directories worth submitting to for broader coverage.
 7. Verify deliverables against criteria
 8. mark_job_paid({ job_id: job.id }) if verified
 9. leave_review({ job_id: job.id, rating: 5, comment: "..." })
-10. Schedule next batch or monthly maintenance
+10. Schedule next batch if needed
 ```
+
+---
+
+**Ready to automate?** Get the MCP server and API docs at [humanpages.ai/dev](https://humanpages.ai/dev)
