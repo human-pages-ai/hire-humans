@@ -107,7 +107,7 @@ Mark each as: submitted, pending approval, requires paid plan, or failed (with r
 ```
 
 **Suggested price:**
-- **Default: one job for 15-20 directories at $25-40.** This is the sweet spot — enough work to be worth the human's time, small enough to verify easily.
+- **Default: one job for 15-20 directories at $5-15.** Workers in global markets handle this efficiently.
 - For a full 80+ directory sweep, create 4-5 sequential jobs of 15-20 directories each. Start with the Launch Platforms category, then move down the list.
 - Do not create a single job for all 80+ directories — it's too much to verify at once.
 
