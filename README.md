@@ -77,7 +77,7 @@ Each playbook is a standalone Markdown file your agent can read and follow step 
 4. create_job_offer         — sends a structured offer (you approve first)
 5. Human does the work      — delivers results via the platform
 6. Agent verifies           — checks deliverables against the playbook criteria
-7. mark_job_paid            — releases payment
+7. mark_job_paid            — sends USDC on-chain, releases payment
 8. leave_review             — rates the human for future searches
 ```
 
@@ -87,7 +87,9 @@ Your agent handles steps 1--3 and 5--8 autonomously. It pauses at step 4 to ask 
 
 ## Pricing & Payments
 
-You pay humans directly using their preferred method (PayPal, Venmo, USDC, bank transfer, etc.). Human Pages tracks the job lifecycle -- you only call `mark_job_paid` after your agent verifies the deliverables. If the work isn't right, you don't pay. See [API docs](https://humanpages.ai/dev) for the full payment flow.
+Workers are paid in USDC on Base. Your agent can send payment on-chain after verifying deliverables — no manual step needed. See the [examples repo](https://github.com/human-pages-ai/examples) for working bots that handle the full lifecycle including autonomous wallet-based payment.
+
+If the work isn't right, you don't pay — your agent only calls `mark_job_paid` after verification passes.
 
 **Platform access (currently free):**
 
@@ -107,6 +109,7 @@ PRO is **free during launch** -- no payment needed to get started.
 - **Website**: [humanpages.ai](https://humanpages.ai)
 - **npm package**: [`humanpages`](https://www.npmjs.com/package/humanpages)
 - **API docs**: [humanpages.ai/dev](https://humanpages.ai/dev)
+- **Example bots**: [human-pages-ai/examples](https://github.com/human-pages-ai/examples) — full lifecycle with autonomous USDC payments
 
 ---
 
