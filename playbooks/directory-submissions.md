@@ -251,6 +251,7 @@ General-purpose directories for software products. Good for long-term SEO and di
 | 42 | YourStory | https://yourstory.com | Indian startup media and listings |
 | 43 | Startup Stash | https://startupstash.com | Curated startup resources |
 | 44 | Taaft | https://taaft.com | AI tool directory |
+| 45 | Alternative.me | https://alternative.me | Software alternatives directory |
 
 ### Profile / Backlink Sites
 
@@ -258,13 +259,13 @@ Sites where you create a company or project profile. Valuable primarily for back
 
 | # | Directory | URL | Notes |
 |---|-----------|-----|-------|
-| 45 | Crunchbase | https://www.crunchbase.com | Create a free organization profile |
-| 46 | About.me | https://about.me | Personal/company profile page |
-| 47 | HackerNoon | https://hackernoon.com | Publish a story or create a company profile |
-| 48 | Devpost | https://devpost.com | Good for hackathon-born projects |
-| 49 | SourceForge | https://sourceforge.net | Open-source project hosting and discovery |
-| 50 | Strikingly | https://www.strikingly.com | Create a simple landing page with backlink |
-| 51 | Site123 | https://www.site123.com | Free site builder with directory listing |
+| 46 | Crunchbase | https://www.crunchbase.com | Create a free organization profile |
+| 47 | About.me | https://about.me | Personal/company profile page |
+| 48 | HackerNoon | https://hackernoon.com | Publish a story or create a company profile |
+| 49 | Devpost | https://devpost.com | Good for hackathon-born projects |
+| 50 | SourceForge | https://sourceforge.net | Open-source project hosting and discovery |
+| 51 | Strikingly | https://www.strikingly.com | Create a simple landing page with backlink |
+| 52 | Site123 | https://www.site123.com | Free site builder with directory listing |
 
 ### AI Agent Directories
 
@@ -272,11 +273,11 @@ Specialized directories for AI agents, autonomous tools, and x402/crypto-native 
 
 | # | Directory | URL | Notes |
 |---|-----------|-----|-------|
-| 52 | navtools.ai | https://navtools.ai | AI tool navigation directory |
-| 53 | x402.eco | https://x402.eco | x402 protocol ecosystem directory |
-| 54 | hermesx402.com | https://hermesx402.com | Hermes x402 agent directory |
-| 55 | nullpath.com | https://nullpath.com | AI agent listings |
-| 56 | aiagentstore.ai | https://aiagentstore.ai | AI agent marketplace |
+| 53 | navtools.ai | https://navtools.ai | AI tool navigation directory |
+| 54 | x402.eco | https://x402.eco | x402 protocol ecosystem directory |
+| 55 | hermesx402.com | https://hermesx402.com | Hermes x402 agent directory |
+| 56 | nullpath.com | https://nullpath.com | AI agent listings |
+| 57 | aiagentstore.ai | https://aiagentstore.ai | AI agent marketplace |
 
 ### Additional High-Value Directories
 
@@ -284,34 +285,34 @@ Supplementary directories worth submitting to for broader coverage.
 
 | # | Directory | URL | Notes |
 |---|-----------|-----|-------|
-| 57 | Indie Hackers | https://www.indiehackers.com | Community + product listing |
-| 58 | BetaPage | https://betapage.co | Beta product directory |
-| 59 | GetApp | https://www.getapp.com | Gartner-owned software directory |
-| 60 | Software Suggest | https://www.softwaresuggest.com | Software recommendation engine |
-| 61 | Slant | https://www.slant.co | "What is the best..." comparison site |
-| 62 | Product Hunt Ship | https://www.producthunt.com/ship | Pre-launch landing page on PH |
-| 63 | F6S | https://www.f6s.com | Startup deals, accelerators, and profiles |
-| 64 | AngelList / Wellfound | https://wellfound.com | Startup profiles and hiring |
-| 65 | Clutch | https://clutch.co | B2B service directory |
-| 66 | TrustPilot | https://www.trustpilot.com | Create a business profile for reviews |
-| 67 | AppSumo Marketplace | https://appsumo.com | Lifetime deal marketplace (if applicable) |
-| 68 | Pitchbook | https://pitchbook.com | Financial data; create a free profile |
-| 69 | TechCrunch Submit | https://techcrunch.com/submit | Submit for coverage consideration |
-| 70 | Robin Good Tools | https://tools.robingood.com | Curated tool directory |
-| 71 | NocodeList | https://nocodelist.co | No-code tool directory (if applicable) |
-| 72 | MakerPad | https://www.makerpad.co | No-code community and tools |
-| 73 | Remote Tools | https://www.remotetools.club | Remote work tool directory |
-| 74 | Futurepedia | https://www.futurepedia.io | AI tool directory |
-| 75 | AI Valley | https://aivalley.ai | AI tool discovery |
-| 76 | TopAI.tools | https://topai.tools | Ranked AI tools |
-| 77 | AI Tools Directory | https://aitoolsdirectory.com | General AI tools listing |
-| 78 | SaaSWorthy | https://www.saasworthy.com | SaaS reviews and awards |
-| 79 | Crozdesk | https://crozdesk.com | Software discovery platform |
-| 80 | GoodFirms | https://www.goodfirms.co | Software reviews and listings |
-| 81 | Gartner Peer Insights | https://www.gartner.com/reviews | Enterprise reviews (for established products) |
-| 82 | All Top Startups | https://alltopstartups.com | Startup news and directory |
-| 83 | EU Startups | https://www.eu-startups.com | European startup directory |
-| 84 | BetaBound | https://www.betabound.com | Beta testing community and listings |
+| 58 | Indie Hackers | https://www.indiehackers.com | Community + product listing |
+| 59 | BetaPage | https://betapage.co | Beta product directory |
+| 60 | GetApp | https://www.getapp.com | Gartner-owned software directory |
+| 61 | Software Suggest | https://www.softwaresuggest.com | Software recommendation engine |
+| 62 | Slant | https://www.slant.co | "What is the best..." comparison site |
+| 63 | Product Hunt Ship | https://www.producthunt.com/ship | Pre-launch landing page on PH |
+| 64 | F6S | https://www.f6s.com | Startup deals, accelerators, and profiles |
+| 65 | AngelList / Wellfound | https://wellfound.com | Startup profiles and hiring |
+| 66 | Clutch | https://clutch.co | B2B service directory |
+| 67 | TrustPilot | https://www.trustpilot.com | Create a business profile for reviews |
+| 68 | AppSumo Marketplace | https://appsumo.com | Lifetime deal marketplace (if applicable) |
+| 69 | Pitchbook | https://pitchbook.com | Financial data; create a free profile |
+| 70 | TechCrunch Submit | https://techcrunch.com/submit | Submit for coverage consideration |
+| 71 | Robin Good Tools | https://tools.robingood.com | Curated tool directory |
+| 72 | NocodeList | https://nocodelist.co | No-code tool directory (if applicable) |
+| 73 | MakerPad | https://www.makerpad.co | No-code community and tools |
+| 74 | Remote Tools | https://www.remotetools.club | Remote work tool directory |
+| 75 | Futurepedia | https://www.futurepedia.io | AI tool directory |
+| 76 | AI Valley | https://aivalley.ai | AI tool discovery |
+| 77 | TopAI.tools | https://topai.tools | Ranked AI tools |
+| 78 | AI Tools Directory | https://aitoolsdirectory.com | General AI tools listing |
+| 79 | SaaSWorthy | https://www.saasworthy.com | SaaS reviews and awards |
+| 80 | Crozdesk | https://crozdesk.com | Software discovery platform |
+| 81 | GoodFirms | https://www.goodfirms.co | Software reviews and listings |
+| 82 | Gartner Peer Insights | https://www.gartner.com/reviews | Enterprise reviews (for established products) |
+| 83 | All Top Startups | https://alltopstartups.com | Startup news and directory |
+| 84 | EU Startups | https://www.eu-startups.com | European startup directory |
+| 85 | BetaBound | https://www.betabound.com | Beta testing community and listings |
 
 ---
 
