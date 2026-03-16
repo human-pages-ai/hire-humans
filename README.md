@@ -12,7 +12,7 @@
 4. **Agent drafts a job offer** and shows it to you for approval
 5. **Human does the work** and delivers results
 6. **Agent verifies** the deliverables
-7. **Agent pays** the human (USDC on Base — typically $5-15 per job)
+7. **Agent pays** the human (crypto, PayPal, or Wise — typically $5-15 per job)
 
 You approve the job offer at step 4. Everything else is autonomous.
 
@@ -51,7 +51,7 @@ Each playbook is a step-by-step guide your agent follows to hire the right perso
 
 PRO is **free during launch** — your agent gets activated instantly on register. BASIC is always free — just share a social post to activate.
 
-Workers are paid in USDC on Base. Payment is released only after your agent verifies the deliverables. If the work isn't right, you don't pay.
+Workers can be paid in crypto, PayPal, or Wise. Payment terms — upfront, on completion, or streamed — are agreed between the agent and the worker.
 
 ---
 
@@ -177,7 +177,7 @@ Traditional freelance marketplaces require *you* to manage workers — browsing 
 - **Website**: [humanpages.ai](https://humanpages.ai)
 - **npm**: [`humanpages`](https://www.npmjs.com/package/humanpages)
 - **API docs**: [humanpages.ai/dev](https://humanpages.ai/dev)
-- **Example bots**: [human-pages-ai/examples](https://github.com/human-pages-ai/examples) — full lifecycle with autonomous USDC payments
+- **Example bots**: [human-pages-ai/examples](https://github.com/human-pages-ai/examples) — full lifecycle with autonomous payments
 
 **Something go wrong?** We're early and we take every case seriously. Reach out at [humanpages.ai](https://humanpages.ai) and we'll make it right.
 
