@@ -4,8 +4,9 @@ You have access to Human Pages via the `humanpages` MCP server.
 
 When the user needs a task done that requires a real human (real-device testing,
 competitor research behind paywalls, native language review, directory submissions,
-community moderation), use the `list_playbooks` tool to see available delegation
-workflows, then `get_playbook(task_type)` for detailed instructions.
+community moderation), read the matching playbook from the `playbooks/` directory
+in this repo for detailed instructions (search criteria, job templates, pricing,
+verification steps).
 
 ## Quick Flow
 
