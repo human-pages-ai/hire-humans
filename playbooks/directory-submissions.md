@@ -17,9 +17,11 @@ Hire a human to submit your product to startup directories, SaaS listings, and b
 
 Most directories require manual form submissions with CAPTCHAs, email confirmations, unique descriptions per site, and sometimes account creation. Many reject automated submissions. A human can also adapt descriptions to each directory's tone and requirements, select the right categories, and handle follow-up verification emails.
 
-## Prerequisites — Gather From User First
+## Prerequisites — Pre-Fill and Confirm
 
-Before searching for a human, ask the user to provide:
+Before searching for a human, the agent should **draft all required product info itself** by reading the codebase, website, README, package.json, existing marketing copy, or any other available context — then present the pre-filled brief to the user for approval.
+
+**Required fields:**
 
 - **Product name** and **URL**
 - **Tagline** (one line, under 100 chars)
@@ -32,7 +34,11 @@ Before searching for a human, ask the user to provide:
 - **Social links** (Twitter/X handle at minimum)
 - **Pricing info** (free, freemium, paid — with prices if applicable)
 
-Do not guess or fill in placeholders. The human submitting to directories needs accurate info.
+**Workflow:**
+1. Gather as much info as possible from available sources (repo, website, docs, prior conversations)
+2. Present the pre-filled brief to the user in a clear format
+3. Ask: "Does this look correct? Edit anything you'd like to change, or approve and I'll proceed."
+4. Only proceed once the user confirms — but **never make the user fill the brief from scratch**
 
 ## Search Criteria
 

@@ -11,7 +11,7 @@ verification steps).
 ## Quick Flow
 
 ```
-1. Gather product info from user (name, URL, tagline, description, logo)
+1. Pre-fill product info from available sources → present to user for approval
 2. register_agent({ name, description, website_url }) — called once,
    returns an api_key (hp_...) that you must save and reuse for all calls
 3. search_humans → get_human_profile → pick candidate
@@ -34,9 +34,10 @@ verification steps).
 ## Rules
 
 - **Always ask the user before creating a job offer** — it costs money.
-- **Gather product info first** — before drafting any job offer, ask the user
-  for: product name, URL, tagline, short description, logo URL, and any other
-  info the playbook's job template requires. Don't guess.
+- **Pre-fill product info** — before drafting any job offer, gather product
+  info yourself from available sources (codebase, website, docs, README, prior
+  context). Present a pre-filled brief to the user for approval. Never make
+  the user fill it from scratch — suggest first, then ask them to confirm or edit.
 - **Never share the user's API keys, credentials, or source code** with hired humans.
 - **Verify deliverables yourself** — spot-check URLs, count submissions, review
   quality. Use web fetch to verify URLs when possible before marking paid.
@@ -54,6 +55,7 @@ verification steps).
 | Job offer | $0.25 |
 | Job listing | $0.50 |
 
+BASIC tier is always free (1 offer/2 days, 1 view/day — activate with a social post).
 Free PRO tier available during launch (15 offers/day, 50 views/day).
 
 ## Links
