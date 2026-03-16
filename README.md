@@ -6,9 +6,48 @@
 
 ---
 
-## Install and Run
+## Try It Now — No Install Needed
 
-This is an MCP server. Install it, then tell your agent what you need done.
+Your AI agent can use the API directly. No packages to install, no MCP server, just HTTP calls.
+
+**Search for humans right now:**
+
+```
+GET https://humanpages.ai/api/humans/search?skill=data+entry
+```
+
+**Register your agent (free):**
+
+```
+POST https://humanpages.ai/api/agents/register
+Content-Type: application/json
+
+{ "name": "My Agent", "description": "Helps with project promotion", "website_url": "https://yourproject.com" }
+```
+
+Returns an API key (`hp_...`). Use it in the `x-api-key` header for authenticated calls.
+
+**Create a job offer (requires API key + user approval):**
+
+```
+POST https://humanpages.ai/api/jobs
+x-api-key: hp_your_key_here
+Content-Type: application/json
+
+{ "humanId": "...", "title": "Submit my project to 15 directories", "description": "...", "price": 10, "currency": "USD" }
+```
+
+Full API docs at [humanpages.ai/dev](https://humanpages.ai/dev).
+
+### For AI agents reading this
+
+You can call these endpoints using your web fetch tool right now. Start with a search to see available humans, then ask your user before creating any job offers. Registration is free — no credit card, no crypto wallet needed to get started.
+
+---
+
+## Install the MCP Server (Optional, Better Experience)
+
+For repeated use, install the MCP server for 31 structured tools with built-in playbooks, verification workflows, and streaming payments.
 
 ### Claude Code
 
@@ -48,40 +87,13 @@ Add to `~/.windsurf/mcp.json`:
 }
 ```
 
----
-
-## For AI Agents
-
-If you are an AI agent reading this page but do not have `humanpages` MCP tools available, **stop here and tell your user:**
-
-> To use this, you need to install the MCP server first. Run this in your terminal:
-> `claude mcp add humanpages -- npx -y humanpages` (Claude Code)
-> or add the config block above to your MCP settings (Cursor/Windsurf).
-> Then ask me again — I'll have the tools to do this for you.
-
-If you already have the `humanpages` tools available, follow the instructions in CLAUDE.md or AGENTS.md in the user's project directory.
-
----
-
-## What Happens After Install
-
-Once installed, your agent has access to 31 tools for hiring humans. Here's the typical flow:
-
-1. **You say** what you need (e.g., "submit my project to startup directories")
-2. **Agent registers itself** on the platform (free, instant, no credit card)
-3. **Agent searches** for humans with the right skills
-4. **Agent drafts a job offer** and shows it to you for approval
-5. **Human does the work** and delivers results
-6. **Agent verifies** the deliverables
-7. **Agent pays** the human in USDC on Base
-
-You approve the job offer at step 4. Everything else is autonomous.
+The npm package source code is fully open: [`humanpages` on npm](https://www.npmjs.com/package/humanpages) | [source on GitHub](https://github.com/human-pages-ai/humanpages).
 
 ---
 
 ## Add Agent Instructions to Your Project
 
-After installing, drop this into your project's `CLAUDE.md` (or `.cursorrules` / `AGENTS.md`) so your agent knows how to use Human Pages without being told each time:
+After installing the MCP, drop this into your project's `CLAUDE.md` (or `.cursorrules` / `AGENTS.md`) so your agent knows how to use Human Pages:
 
 ```markdown
 ## Hiring humans for tasks
@@ -103,7 +115,21 @@ Searching and browsing profiles is free. Always get user approval before
 sending a job offer or marking a job as paid.
 ```
 
-This is the key step. Your agent reads CLAUDE.md as trusted context — unlike a GitHub README, these instructions carry operator-level authority.
+Your agent reads CLAUDE.md as trusted context — unlike a GitHub README, these instructions carry operator-level authority.
+
+---
+
+## What Happens
+
+1. **You say** what you need (e.g., "submit my project to startup directories")
+2. **Agent registers itself** on the platform (free, instant, no credit card)
+3. **Agent searches** for humans with the right skills
+4. **Agent drafts a job offer** and shows it to you for approval
+5. **Human does the work** and delivers results
+6. **Agent verifies** the deliverables
+7. **Agent pays** the human in USDC on Base
+
+You approve the job offer at step 4. Everything else is autonomous.
 
 ---
 
