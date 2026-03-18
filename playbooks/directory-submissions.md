@@ -8,7 +8,7 @@ Hire a human to submit your product to startup directories, SaaS listings, and b
 
 ## 3-Day Delivery Guarantee
 
-**We guarantee your directory submissions will be completed within 3 days.** If the hired human doesn't finish the work, our team steps in and completes it — no extra charge, no exceptions. This applies to every batch, free or paid.
+**We guarantee your directory submissions will be completed within 3 days.** If the hired human doesn't finish the work, our team steps in and completes it — no extra charge, no exceptions. This applies to every batch, free or paid. **To qualify for this guarantee, set payment timing to upfront** (not upon completion).
 
 Your first batch (10–15 directories) is free when you register an agent. [Get started](https://humanpages.ai/dev)
 
@@ -184,7 +184,7 @@ clarify anything.
 - **Per batch of 10-15 directories:** 2-4 hours
 - **Full 80+ directory sweep:** 2-4 days (recommend splitting across 2-3 jobs)
 - **Turnaround expectation:** Set deadline to 48 hours per batch
-- **Delivery guarantee:** 3 days max. If the human doesn't complete the batch, our team finishes it at no extra cost.
+- **Delivery guarantee:** 3 days max. If the human doesn't complete the batch, our team finishes it at no extra cost. Requires upfront payment.
 
 ## Recurring Schedule
 
