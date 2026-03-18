@@ -25,7 +25,7 @@ verification steps).
 
 ## Available Task Types
 
-- `directory-submissions` — Submit the project to 80+ directories and listing sites
+- `directory-submissions` — Submit the project to 80+ directories and listing sites. **First batch free. 3-day delivery guarantee** (our team finishes if the human doesn't).
 - `qa-testing` — Real-device bug testing on phones, tablets, and browsers
 - `competitor-monitoring` — Track competitor pricing, features, and changelog diffs
 - `localization` — Native speaker review of translated UI strings and screenshots
