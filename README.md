@@ -32,8 +32,8 @@ Each playbook is a step-by-step guide your agent follows to hire the right perso
 
 | Playbook | What | Est. price | Cadence |
 |---|---|---|---|
-| [Play Store Testing](playbooks/play-store-testing.md) | Recruit 12+ Android testers for Google Play closed testing | ~$18--30 total | Per app launch |
 | [QA Testing](playbooks/qa-testing.md) | Real-device bug testing on phones, tablets, browsers | ~$3--10/session | Per release |
+| [Play Store Testing](playbooks/play-store-testing.md) | Recruit 12+ Android testers for Google Play closed testing | ~$18--30 total | Per app launch |
 | [Competitor Monitoring](playbooks/competitor-monitoring.md) | Track competitor pricing, features, and changes | ~$3--8/week | Weekly |
 | [Localization](playbooks/localization.md) | Native speaker review of your translated UI | ~$5--15/language | Per release |
 | [Community Management](playbooks/community-management.md) | Moderate your Discord, Reddit, or forum | ~$50--100/week | Daily |
