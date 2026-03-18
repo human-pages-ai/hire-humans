@@ -32,10 +32,17 @@ Each playbook is a step-by-step guide your agent follows to hire the right perso
 
 | Playbook | What | Est. price | Cadence |
 |---|---|---|---|
+| [Play Store Testing](playbooks/play-store-testing.md) | Recruit 12+ Android testers for Google Play closed testing | ~$18--30 total | Per app launch |
 | [QA Testing](playbooks/qa-testing.md) | Real-device bug testing on phones, tablets, browsers | ~$3--10/session | Per release |
 | [Competitor Monitoring](playbooks/competitor-monitoring.md) | Track competitor pricing, features, and changes | ~$3--8/week | Weekly |
 | [Localization](playbooks/localization.md) | Native speaker review of your translated UI | ~$5--15/language | Per release |
 | [Community Management](playbooks/community-management.md) | Moderate your Discord, Reddit, or forum | ~$50--100/week | Daily |
+
+### New: Play Store Beta Tester Recruitment
+
+Google Play requires 12 testers for 14 days before you can publish. Existing solutions like [TestersCommunity](https://testerscommunity.com) ($15) and Fiverr (~$22) work — but they're manual web UIs that your AI agent can't use. Their testers aren't paid either — TestersCommunity uses a credit/barter system where testers only participate to earn credits for their own apps, leading to minimal engagement (checkbox installs, not real testing).
+
+With Human Pages, your agent handles recruitment end-to-end via MCP/API, testers get paid real money (USDC) so they're actually motivated to engage with your app, and you can optionally get bug reports alongside the compliance requirement. Tell your agent: *"I need Play Store testers — follow the play-store-testing playbook"*
 
 ---
 

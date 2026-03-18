@@ -29,6 +29,7 @@ verification steps).
 - `qa-testing` — Real-device bug testing on phones, tablets, and browsers
 - `competitor-monitoring` — Track competitor pricing, features, and changelog diffs
 - `localization` — Native speaker review of translated UI strings and screenshots
+- `play-store-testing` — Recruit 12+ Android testers for Google Play closed testing (14-day requirement)
 - `community-management` — Moderate Discord, Reddit, or forum communities
 
 ## Rules

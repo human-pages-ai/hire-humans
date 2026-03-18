@@ -38,6 +38,15 @@ tasks:
     deliverable: "Annotated screenshots and issue table"
     playbook: playbooks/localization.md
 
+  - type: play-store-testing
+    name: "Play Store Beta Tester Recruitment"
+    search:
+      skill: "android testing OR mobile testing"
+      equipment: "android"
+    price_range: "$1.50-2 per tester ($18-30 for 12-15 testers)"
+    deliverable: "Screenshots confirming testing enrollment and 14-day retention"
+    playbook: playbooks/play-store-testing.md
+
   - type: community-management
     name: "Community Management"
     search:
