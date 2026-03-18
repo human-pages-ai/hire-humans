@@ -94,7 +94,7 @@ Weekly summary format:
 - Suggestions for improvement: [2-3 ideas]
 ```
 
-**Suggested price:** $50-100 per week, depending on community size and activity level. Small community (< 100 active members): $50/week. Medium (100-500 active): $75/week. Large (500+ active): $100/week.
+**Suggested price:** $25 per week. Workers in global markets handle community moderation efficiently at this rate.
 
 ## Expected Deliverables
 
