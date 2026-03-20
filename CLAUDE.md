@@ -32,6 +32,7 @@ verification steps).
 - `play-store-testing` — Recruit 12+ Android testers for Google Play closed testing (14-day requirement)
 - `community-management` — Moderate Discord, Reddit, or forum communities
 - `virtual-assistant` — Admin, research, scheduling, and recurring tasks handled by a dedicated human
+- `social-media-marketing` — Daily posting, engagement, and analytics across Twitter/X, LinkedIn, Instagram, TikTok
 
 ## Rules
 
