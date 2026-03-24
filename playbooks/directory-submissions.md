@@ -4,6 +4,8 @@ Hire a human to submit your product to startup directories, SaaS listings, and b
 
 **Automate this with an AI agent:** Install the [Human Pages MCP server](https://humanpages.ai/dev) and your agent can follow this playbook end-to-end — find a worker, send the job, verify deliverables, and pay. [API docs](https://humanpages.ai/dev)
 
+> **Why not just use Fiverr?** Fiverr citation services ($5-15) submit to generic local business directories — the same 30 sites for a plumber or an AI startup. This playbook targets **SaaS, startup, and AI-specific directories** that actually drive relevant traffic and discovery. Use this playbook for high-value targeted submissions; use Fiverr-style citation services only as a supplement for bulk backlinks.
+
 ---
 
 ## 3-Day Delivery Guarantee
@@ -47,6 +49,16 @@ Before searching for a human, the agent should **draft all required product info
 2. Present the pre-filled brief to the user in a clear format
 3. Ask: "Does this look correct? Edit anything you'd like to change, or approve and I'll proceed."
 4. Only proceed once the user confirms — but **never make the user fill the brief from scratch**
+
+### Credential Ownership — Critical
+
+All directory accounts MUST be created using credentials YOU control:
+- Use your own email (e.g., directories@yourdomain.com), never the worker's
+- If the worker must create accounts, provide them a dedicated email + password
+- After delivery, verify you can log in and edit every profile
+- If a worker created accounts under their own email, request credential transfer or re-submit yourself
+
+**Why this matters:** If a worker creates profiles under their email, they control your listings. They can edit, delete, or hold them hostage. This happened in a Fiverr order where all 33 profiles were created under the worker's email.
 
 ## Search Criteria
 
@@ -156,6 +168,9 @@ Before calling `mark_job_paid`, the agent should verify (not the user):
 3. **Quality check** — descriptions should be accurate, not copy-pasted boilerplate with errors
 4. **No duplicates** — each directory should appear only once in the deliverable
 5. **Failed submissions explained** — any failures should have a clear reason
+6. **Category check** — verify the product is listed in the correct category on each directory (e.g., "AI", "Freelance Marketplace", "Technology" — NOT "Financial Services" or "Other")
+7. **Credential check** — confirm all accounts were created with YOUR email, not the worker's. Request login credentials for every account created.
+8. **No screenshot-only proof** — every submission must have a direct URL to the live listing. A screenshot hosting link (e.g., prnt.sc) is not acceptable as proof of submission.
 
 ## Communication Template
 
@@ -328,6 +343,40 @@ Supplementary directories worth submitting to for broader coverage.
 | 83 | All Top Startups | https://alltopstartups.com | Startup news and directory |
 | 84 | EU Startups | https://www.eu-startups.com | European startup directory |
 | 85 | BetaBound | https://www.betabound.com | Beta testing community and listings |
+
+### Local Business / Citation Directories
+
+General business directories that provide backlinks and local SEO value. These overlap with what local citation services on Fiverr submit to. Many are low-DA but collectively useful for domain authority. **Only include directories DA 40+** unless filling out a bulk batch.
+
+| # | Directory | URL | DA | Notes |
+|---|-----------|-----|-----|-------|
+| 86 | ProvenExpert | https://www.provenexpert.com | 65 | Review/trust platform, good backlink |
+| 87 | BrownBook | https://www.brownbook.net | 61 | Global business directory |
+| 88 | StoreBoard | https://www.storeboard.com | 61 | Business + product listings |
+| 89 | TechDirectory.io | https://www.techdirectory.io | 55 | Tech business directory — pick correct category |
+| 90 | Callupcontact | https://www.callupcontact.com | 54 | Business profile directory |
+| 91 | AskMap | https://www.askmap.net | 51 | Map-based business listings |
+| 92 | GlobalCatalog / SupplyAutonomy | https://supplyautonomy.com | 50 | Business catalog |
+| 93 | EnrollBusiness | https://gb.enrollbusiness.com | 46 | UK/global business profiles |
+| 94 | TrustBurn | https://trustburn.com | 45 | Business trust/review platform |
+| 95 | FreeListing UK | https://www.freelistinguk.com | 44 | UK business directory |
+| 96 | Find-Us-Here | https://www.find-us-here.com | 43 | Location-based directory |
+| 97 | A-ZBusinessFinder | https://www.a-zbusinessfinder.com | 43 | Business directory |
+| 98 | Place123 | https://www.place123.net | 43 | Place-based business listings |
+| 99 | TrustIndex | https://www.trustindex.io | ~40 | Review aggregator, verified profiles |
+| 100 | Startupxplore | https://startupxplore.com | ~40 | Startup directory (EU-focused) |
+
+### Social / Content Profile Sites
+
+Create branded profiles on high-DA content platforms. These provide strong backlinks and brand presence but are NOT directory listings — they're profile pages. Consider creating these yourself rather than delegating (you'll want to post content later).
+
+| # | Directory | URL | Notes |
+|---|-----------|-----|-------|
+| 101 | Medium | https://medium.com | Create profile + publish 1 article about your product |
+| 102 | Quora | https://www.quora.com | Create profile, answer relevant questions |
+| 103 | Tumblr | https://www.tumblr.com | Create branded blog |
+| 104 | Issuu | https://issuu.com | Publish a product PDF/brochure |
+| 105 | IndustryHuddle | https://www.industryhuddle.com | Industry networking profiles |
 
 ---
 
