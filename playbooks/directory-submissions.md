@@ -4,8 +4,6 @@ Hire a human to submit your product to startup directories, SaaS listings, and b
 
 **Automate this with an AI agent:** Install the [Human Pages MCP server](https://humanpages.ai/dev) and your agent can follow this playbook end-to-end — find a worker, send the job, verify deliverables, and pay. [API docs](https://humanpages.ai/dev)
 
-> **Why not just use Fiverr?** Fiverr citation services ($5-15) submit to generic local business directories — the same 30 sites for a plumber or an AI startup. This playbook targets **SaaS, startup, and AI-specific directories** that actually drive relevant traffic and discovery. Use this playbook for high-value targeted submissions; use Fiverr-style citation services only as a supplement for bulk backlinks.
-
 ---
 
 ## 3-Day Delivery Guarantee
